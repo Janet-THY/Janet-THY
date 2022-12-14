@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janet-THY
+- 👋 Hi, my name is @Janet-Ting
 - 👀 I’m interested in science, technology, engineering and music & drama
 - 🌱 I’m currently learning computing and data science
 - 💞️ I’m looking to collaborate on insteresting analytics projects
